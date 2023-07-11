@@ -83,7 +83,7 @@ function getItemCount(name)
 end
 
 function dropThrash()
-	local thrash = {"minecraft:stone", "minecraft:dirt", "minecraft:gravel", "minecraft:sand", "minecraft:cobblestone", "minecraft:sandstone", "minecraft:bedrock", "chisel:limestone", "chisel:marble", "chisel:diorite", "chisel:granite", "chisel:andesite", "harvestcraft:salt", "consistency:cobbled_andesite", "consistency:cobbled_calcite", "consistency:cobbled_tuff", "minecraft:cobbled_deepslate", "consistency:cobbled_diorite", "consistency:cobbled_granite"}
+	local thrash = {"minecraft:stone", "minecraft:dirt", "minecraft:gravel", "minecraft:sand", "minecraft:cobblestone", "minecraft:sandstone", "minecraft:bedrock", "chisel:limestone", "chisel:marble", "chisel:diorite", "chisel:granite", "chisel:andesite", "harvestcraft:salt", "consistency_plus:cobbled_andesite", "consistency_plus:cobbled_calcite", "consistency_plus:cobbled_tuff", "minecraft:cobbled_deepslate", "consistency_plus:cobbled_diorite", "consistency_plus:cobbled_granite"}
 
 	for i=1, 16 do
 	
